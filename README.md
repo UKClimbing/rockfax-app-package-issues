@@ -1,2 +1,5 @@
-# data-issues
-A repository tracking errata in Rockfax crag packages
+# rockfax-app-package-issues
+
+A repository for tracking errata in Rockfax crag packages.
+
+
